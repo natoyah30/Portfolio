@@ -1,0 +1,294 @@
+
+COT 6931 Project Definition
+ 
+Project Name: Boy Scout Merit Badge App
+Client Name: Michael Stark
+Client Phone Number: 813-600-0272
+Client email:michael@starknetwork.com
+Mentor: Dr. Donna M. Lohr
+Date: September 29th, 2013
+ 
+	The Boy Scout Merit Badge Tracker App will allow Boy Scouts to keep track of their 
+badges as they achieve them. Currently these badges are tracked on paper by each scout and their 
+scout masters. This project will help scouts everywhere to keep up with their badges as well as 
+contains information on how to achieve other badges.
+	The project objective is to create the Boy Scout Merit Badge Tracker app using windows 8 phone platform. To create an easy to use tracker that consolidates information, allows for create of profile, and provides a continuous saved version of each profile. The Windows 8 phone app is a great environment to capitalize on during this computing growth trend. This app will have two features: personal tracker and group tracker. The client provided a requirements list of what the app is expected to do. This will allow scouts and scout masters across America to keep track of their badges and encourage them to achieve their goals. 
+Michael Stark will be my client for this project and he will sign off on the requirements and accept the deliveries of this project. My project have previously been approved. My client is current scout master who would like to have the ability to keep track of his scouts merit badges as well as give them a way to track their individual merit badges. The application will allow the client to pull reports for his scouts as well as update their merit badges once they have met all the requirements.
+The research project problem is the fact that merit badges are being tracked only on paper and in databases accessible by Boy Scouts of America (BSA) officials. I have researched several topics and documents found on the Microsoft windows website.
+1.	Design Templates for Windows 8 Apps
+2.	Programming Windows 8 apps
+3.	Design Templates
+4.	Window 8 Apps Getting Started
+5.	Sketch Templates
+6.	Microsoft Assure 
+7.	Programming in C# with XAML/.NET/JavaScript
+8.	Boy Scouts of America requirements
+
+Over the years boys across America have been participating in many different activities that help them to become leaders in their communities, help them build character, teach them how to be responsible as well as develop strong personal fitness. These boys have participated in several different activities that will qualify them to receive ranks as well as badges to signify a job well done. Boy Scouts of America is a youth organization which was founded in 1910 and today have over 2.7 million members. Our youth today need structure and guidance and Boy Scout of America are helping boys everywhere become better young men. This project is important because it will allow my client to keep track of his troops as well as allow his troops to keep track. My client have contributed several years to BSA and have shared some experiences regarding training his troop for the computer science merit badge.
+The deficiencies which were determined were inadequate requirement specifications from client. Inadequate technical experience and inadequate programming experience for the first semester. Since then my client and I have reviewed the requirement specifications and updated the documentation.
+	The targeted audience for this project is current and Future Boy Scout Members and their Scout Masters. These boys could benefit from the app because we live in a technology driven world and this would be a big motivator for the boys. They will be able to have access to all the merit badges requirements straight from the app. Scout Masters will have the ability to keep track of his troop’s accomplishments with the capability of printing out reports to submit to the BSA headquarters.   
+	During the scope of my research I found a lot of information that will assist me with my project. I will be able to interact with my client based on his experiences with the BSA. There are a lot of resources available for student developers and beginners. Microsoft have a lot of training aid available to get student/beginner developers to create functional apps. I have purchased several books and resources to help me along the way. I also found several articles that will assist me with dealing with mobile platforms and interfaces as well as database and computer algorithms and phone application security. The articles that I found relevant to my research project is listed below.
+1. Lok, S., Feiner, S.K, Chiong, W.M, & Hirsch, Y.J (2002). A  
+      graphical user interface toolkit approach to thin-client    
+      computing. www.’02 Proceedings of the 11th  international   
+      conference on world wide web.(pg. 718-725)  
+      ACM New York, NY, USA. Doi:10.1145/511446511540
+2. Armand, F., Gien, M. , Majgne, G. & Mardinnian, G. (2008). 
+       Shared device driver model for virtualized mobile   
+       handsets.  MobiVirt ’08 Proceedings of the First Workshop 
+       on Virtualization in Mobile Computing. (pg. 12-16) ACM 
+       New York, NY, USA. Doi:10.1145/1622103.1622104
+3. Olsen, Geir (2012). Windows phone 8 security. SPSM ’12 
+      Proceedings of the second ACM workshop on Security and 
+      Privacy in smartphones and mobile devices. (pg. 1-2). ACM 
+      New York, NY, USA. Doi:10.1145/2381934.2381936
+4. Anderson, I., Maitland, J., Sherwood, S., Barkhuus, L., 
+       Chalmers, M., Hall, M., Brown, B., & Muller, H. (2007)
+       Shakra: tracking and sharing daily activity levels with un-
+       Augmented mobile phones. Mobile Networks and 
+       Applications: Vol. 12 Issue 2-3(pg. 185-199). Springer-
+       Vertag New York, Inc Secaucus, NY, USA. 
+       Doi: 10.1007/s11036-007-0011-7
+
+5. Klein, G., Murray, D. (2009). Parallel Tracking and Mapping
+       on a camera phone. ISMAR ’09 Proceedings of the 2009 
+       8th IEEE International Symposium on Mixed and   
+       Augmented Reality. (pg. 83-86). IEEE Computer Society 
+       Washington, DC, USA. Doi: 10.1109/ISMAR2009.5336495
+6.  Vitter, J. S. (2001). External memory algorithms and data 
+        structures: dealing with massive data. ACM Computing 
+        Surveys (CSUR) Vol. 33 Issue 2(pg. 209-271). ACM NEW
+        York, NY, USA. Doi: 10.1145/384192.384193
+7.  Panda, J., Sharma, S., Jawahar, C.V. (2012). Heritage 
+        App: annotating images on mobile phones. ICVGIP ’12 
+        Proceedings of the Eight Indian Conference on Computer
+       Vision  and Graphics. Article No. 3. ACM New York, NY 
+        USA. Doi: 10.1145/242533.2425336
+8.  Tolia, N., Satyanarayanan, M.  (2007). Benchmarks for 
+         mobile database access. MobiEval ’07 Proceedings of 
+         the 1st international workshop on Systems Evaluations
+         for mobile platforms. (pg. 47) ACM New York, NY, USA
+         Doi: 10.1145/1247721.12477331
+9.  Altaueb, B, & Damevski, K. (2013). Utilizing enhancing 
+         software modeling environments to teach mobile 
+         application design.  Journal of Computing Sciences in 
+         Colleges Vol. 28 Issue 6. Consrotium for computing 
+         sciences in colleges, USA. Retrieved from:  http://dl.acm 
+        .org.ezproxy.lib.uwf.edu/citation.cfm? d=2460156
+        .2460168&coll=DL&dl=ACM& CFID=3185793&C
+         FTOKEN =43173118
+10.  Huy, N.P. & vanThanh, D. (2012). Evaluation of mobile
+       app paradigms MoMM ’12 Proceedings of the 10th Intern
+       ational Conference on Advances in Mobile Computing & 
+       Multimedia. (pg. 25-30) ACM New York, NY. USA. 
+       Doi: 10.1145/2428955.2428968
+	The purpose of this project is to allow current and future scouts track their personal accomplishments as far as badges they have earned as well as the ones they are working on. The app will provide a photo and description of each badge and the qualifications needed to achieve them. The app will also have a troop tracking feature where scout masters can keep track of each scout badge information as well.
+	The project is to create a functional app to allow scouts to keep track of their merit badges by inputting type of badge / date completed and or pending status.
+I plan to manage this project using a project management software with techniques learned from my project management class. This document will include a start date as well as an end date with status updates as needed. I will be using Microsoft project for this project management. It will contain all the status updates/reports/artifacts/ documentations and the project life cycle.
+-Project initiation
+-Planning
+-Design
+-Implementation
+-Testing
+-Project Closure
+I plan to continue communicating with my client through weekly updates through Skype and via email.
+
+Tasks	Start	End	Duration	Status
+Merit Badges	6/3	12/4	135 days	NC
+⮚	Status update 1	5/20	5/26	5 days	C
+Project Definition	5/27	6/2	6 days	C
+⮚	Objectives
+⮚	 				
+-	 Status update 2	6/3	6/9	6 days	C
+-	 Status update 3	6/10	6/16	6 days	C
+-Progress Report 1	6/17	6/23	6 days	C
+Software Requirements
+⮚	Analysis
+⮚	app specs
+⮚	app budget
+⮚	delivery timeline
+⮚	approvals
+⮚	secure app  resources
+⮚	complete analysis	6/18	7/18	30  days	C
+-	Meet with client via skype	6/15	6/15	1 hr	C
+-	Status update 4	6/24	6/30	6 days	C
+-	Meet with Client via skype	6/24	6/24	1 hr	C
+-	Status update 5	7/1	7/7	6 days	C
+-Progress Report 2				C
+Training
+⮚	Develop training specs for end users
+⮚	Training method: Computer based training presentation
+⮚	Training materials
+⮚	Training usability study
+Training complete	7/8	8/15	26 days	C
+⮚					
+-	Status update 6	7/15	7/21	6 days	C
+-	Meet With Client via skype 	7/15	7/15	2 hrs	C
+-	Status update 7	7/22	7/28	6 days	C
+-	Presentations
+-	Youtube 
+-	Powerpoint	7/22	7/28		C
+Design app
+⮚	Review app Specs
+⮚	Develop app spec
+⮚	Review feedback
+⮚	Obtain approval
+⮚	Complete design	8/15	9/27	28 days	C
+Status Report 1	9/9	9/15	6 days	NC
+-	Meet with client via skype	9/25	9/25	1 hr	C
+Development
+⮚	Review app specs
+⮚	Identify app design parameters
+⮚	Develop app code
+⮚	Developer app testing
+⮚	Development complete	9/20	10/24	35 days	C
+Project Definition	9/23	9/29	6 days	C
+Status Report 2	9/30	10/6	6 days	C
+-	Meet with client via skype	9/30	9/30	1 hr	C
+Status Report 3	10/7	10/13	6 days	C
+Testing
+Develop app test plan based on req. specs
+
+-	Unit testing
+⮚	Review code
+⮚	Test components to prod specs
+⮚	Identify anomalies
+⮚	Modify code
+⮚	Retest
+⮚	Compete unit test
+
+-	Integration testing
+⮚	Review code 
+⮚	Test components to prod specs
+⮚	Identify anomalies
+⮚	Modify code
+⮚	Retest
+⮚	Compete integration test
+-		10/14	11/15	27 days	
+Progress Report 1	10/14	10/20	6 days	C
+-	Meet with client via skype	10/14	10/14	1 hr	C
+Documentation
+⮚	Develop help specs
+⮚	Develop help sys
+⮚	Review help doc
+⮚	Incorporate feedback
+⮚	Develop user manuals specs
+⮚	Develop user manuals 
+⮚	Review all user manual
+⮚	Incorporate user doc feedback
+⮚	Documentation complete	10/20	11/20	10 days	
+Status Report 4	10/21	10/27	6 days	C
+-	Meet with client via skype	10/21	10/21	1 hr	C
+Status Report 5	10/28	11/3	6 days	
+Progress Report 2	11/4	11/10	6 days	C
+Prototype
+⮚	Identify test group
+⮚	Develop software delivery
+⮚	Deploy software
+⮚	Obtain feedback
+⮚	Evaluate testing info
+⮚	Complete prototype	11/10	11/20	10 days	
+Status Report 6	11/11	11/16	6 days	
+-	Meet with client via skype	11/11	11/11	1 hr	
+Deployment
+⮚	Determine final deployment
+⮚	Develop deploy methodology
+⮚	Secure deploy
+⮚	Deploy
+⮚	Deployment complete	11/20	11/30	10 days	
+-	Meet with client via skype	11/17	11/17	1 hr	
+Status Report 7	11/18	11/24	6 days	
+Project Artifacts	12/2	12/4	2 days	
+Youtube Presentation	12/2	12/4	2 days	
+Powerpoint	12/2	12/4	2 days	
+Client acceptance	12/2	12/4	2 days	
+Project Closure	12/2	12/4	2 days	
+
+
+
+As with any project I am aware that I will have risk both planned and unplanned. 
+-	Schedule risk: wrong estimation, improper tracking, unexpected scope expansions
+-	Budget risk: estimated budget may increase/ scope creep
+-	Technical risk: Complex project, requirement changes anticipated
+-	Programmatic risk: Microsoft app environment changes, market development, minimal programming skill. 
+
+Risks	Low	Medium	High
+Schedule Risk		X	
+Budget Risk		X	
+Technical Risk			       X
+Programmatic Risk			
+X
+
+To overcome issues with scheduling I will create and frequently update a project schedule so I can keep track of activities and events as well as meet deadlines etc. To overcome budget risks I plan to keep cost to a minimal by maximizing the budget and reuse when possible. To overcome technical risks I plan to break the project in small portions and tackle small amounts at a time so it doesn’t get too overly complex. To overcome programmatic risks I plan to review already purchased programming books and revisit past programming course work. 
+-	Status updates
+-	Progress Reports
+-	Backup and Maintenance of database
+-	Maintenance of server 
+-	Maintenance of mobile infrastructures
+
+The project interface is my client/sponsor at the moment. Throughout the project I plan to brief my client with status updates and progress reports during scheduled meetings via Skype.
+Once the design and implementation phases begins I will be able to provide a GUI interface with the possibility of user interactions for both my client and his troop. SQL server would be impacted if the app goes viral and volume crashes the server. Database would be impacted if the servers don’t keep a steady connection. I will be using my MacBook Pro with windows 8 installed through boot camp. I plan to use Visual Studios 2012. The software have a built in emulators to test product as well as I will be testing on a loaner Windows 8 phone through the Nokia phone loan program.
+-	Visual Studios
+-	Photoshop 
+-	Developer Phone 
+-	SQL Host 
+-	Microsoft Store account
+
+Users will need to have window 8 and windows 8 phone to run this application.
+I am estimating a project kick off on 06/01/2013. I will begin gathering all the documentations, specifications requirements and document them as well as prepare for drafting of design.
+I am estimating an end date of 11/30/2013. As this will give me exactly 6 months to complete the entire project and 2 semesters. The first half was completed on 07/31/2013.
+I estimated about 1,440 hours to be devoted to this project
+(12 hour per day/ 5 days per week). The estimated hours will be divided between the actual project, as well as client and mentor hours.
+I am estimating a budget of about 39,718.00 for the project not including the monthly subscription to an SQL host which the client will cover. With an hourly wage of $25.00 per hour @ 12 hours per day/ 5 days per week. This is however a very rough estimate.
+Other costs are software related
+-	Visual Studios $1500
+-	Photoshop $500
+-	Windows 8 Phone $69
+-	Laptop $1100
+-	Developer Phone $450
+-	SQL Host $50 per month
+-	Microsoft Store account $49.00
+
+There will be an estimate of 7 functionalities
+-	User Logins 
+-	Reports for each scout badges received
+-	Ability to access from Facebook/twitter/ or google
+-	List of badges 
+-	List of scouts and their information
+-	Scout merit badge earned
+-	Rank lists
+
+Below is a list of deliverables
+-	Software Project Management Plan
+-	Software Requirements Specifications
+-	Software Design Description
+-	Software Test Document
+-	Budget
+-	Timeline
+-	User documents
+-	Coding 
+-	Application Documentation
+
+Milestones
+                                             
+-	Review Requirements with client
+-	Create merit badges database
+-	Create a structure for the database
+-	Research webhosting services
+-	Research Azure and data sharing service
+-	Develop first version of app
+-	Client review app 
+-	Revisit requirements input change requests
+Comments
+Approvals
+Project Client:	___Michael Stark_____________	Date:   __05/30__/_13_
+Client Signature:	Micheal Stark_________________	Date:   ___06/_02/13____
+Project Mentor:	_Dr. Donna M. Lohr____________	Date:   05/___30/13____
+Mentor Signature: Donna Lohr________________	Date:   06 /02_/13____
+Student Name:	Natoya Hamilton_____________	Date:   _05_/ 30_/_13__
+Student: Signature _Natoya Hamilton	Date:   _06__/_02_/_13___
+
+   
+
+
+
